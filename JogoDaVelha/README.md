@@ -1,0 +1,1 @@
+Nesse projeto de jogo da velha utilizei para aprender conceitos de interface gráfica, juntamente com um jogo simples que já desenvolvi em console. Está de forma básica ainda onde são necessários dois jogadores, mas no futuro farei uma versão onde contará com uma inteligencia artificial para as respotas.
