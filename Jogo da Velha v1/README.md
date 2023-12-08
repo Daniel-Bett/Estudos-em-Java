@@ -1,0 +1,1 @@
+Criei um jogo da velha, respeitando os conceitos da POO. Está de forma simples usando o console para mostrar o jogo, e usando números como referencia para jogar. Estou a desenvolver agora com uma interface gráfica a fim de que fique mais fácil jogar.
