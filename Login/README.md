@@ -1,0 +1,1 @@
+Como forma de conectar com um servidor local de minha máquina, busquei fazer para aprender a utilizar os conceitos simples de conexão com banco de dados. Esse sistema compara as informações advindas de um terceiro com os dados de Usuário e Senha. Após a verificação se for positiva abre uma nova tela, já se for negativa mostra um erro e oportuniza o mesmo a retomar a tentar.
