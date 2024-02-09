@@ -1,0 +1,1 @@
+Com o intuito de fazer um cadastros em um Banco de Dados, totalmente como forma de estudos para realizar boas práticas e de forma simples executar este objetivo. Ainda possuo o objetivo de fazer com que busque, altere e manipule esses dados a fim de fazer como um sistema de estoque simples.
