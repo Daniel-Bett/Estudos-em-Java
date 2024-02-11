@@ -106,7 +106,7 @@ public class FrmLoginVIEW extends JFrame {
 				FrmTelaPrincipalVIEW objeto = new FrmTelaPrincipalVIEW();
 				objeto.frame.setVisible(true);
 				
-				dispose();
+				frame.dispose();
 				
 			}else {
 				JOptionPane.showMessageDialog(null, "Usuario ou senha incorreto");
